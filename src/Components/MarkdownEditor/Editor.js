@@ -30,7 +30,7 @@ function Editor() {
   const mdIn = {
     width: "100%",
     height: "auto",
-    minHeight: "80vh",
+    minRows: "20",
     padding: "15px 15px",
     borderRadius: "2px",
     background: "white",
